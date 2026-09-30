@@ -1,0 +1,1 @@
+export const site={name:"Sadhana Prakash Omkar",brand:"Pixels by Omkarsadhana",email:"omkar@gmail.com",phone:"+91 99999 99999",location:"Chittoor",socials:{instagram:"https://www.instagram.com/",linkedin:"https://www.linkedin.com/",github:"https://github.com/omkarsadhana",youtube:"https://www.youtube.com/",vimeo:"https://vimeo.com/"}};
